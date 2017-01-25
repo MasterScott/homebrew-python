@@ -1,0 +1,6 @@
+{
+  "matplotlib": "homebrew/science",
+  "numpy": "homebrew/core",
+  "pillow": "homebrew/science",
+  "scipy": "homebrew/core"
+}
